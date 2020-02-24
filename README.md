@@ -1,4 +1,7 @@
 # misc
+2020/02/24
+jaymchung@ssu.ac.kr
+
 처음 시작하면서 한번 만들어보는 것
 
 ## Tokenize.ipynb
