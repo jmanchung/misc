@@ -14,15 +14,17 @@ jaymchung@ssu.ac.kr
 
 ### Duchesnay(2019)Ch01.ipynb
 2020/02/28
+#### Duchesnay(2019)Statistics and Machine Learning in Python   
+
 
 - 0. Install   
-- Duchesnay(2019)Statistics and Machine Learning in Python   
-   - 1. PYTHON ECOSYSTEM FOR DATA-SCIENCE   
+- 1. PYTHON ECOSYSTEM FOR DATA-SCIENCE   
 
 ### Duchesnay(2019)Ch03.ipynb
 2020/03/07
+#### Duchesnay(2019)Statistics and Machine Learning in Python   
+#### Original: reference.ipynb; https://github.com/justmarkham/python-reference
 
-- Duchesnay(2019)Statistics and Machine Learning in Python   
-   - 3. PYTHON LANGUAGE   
-      - Original: reference.ipynb; https://github.com/justmarkham/python-reference
+- 3. PYTHON LANGUAGE   
+
 
