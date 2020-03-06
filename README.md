@@ -16,6 +16,7 @@ KoNLPy 설치하기
 2020/02/28
 
 0. Install   
+
 Duchesnay(2019)Statistics and Machine Learning in Python   
 1. PYTHON ECOSYSTEM FOR DATA-SCIENCE   
 
@@ -24,5 +25,5 @@ Duchesnay(2019)Statistics and Machine Learning in Python
 
 Duchesnay(2019)Statistics and Machine Learning in Python   
 3. PYTHON LANGUAGE   
-Original: reference.ipynb; https://github.com/justmarkham/python-reference
+   Original: reference.ipynb; https://github.com/justmarkham/python-reference
 
