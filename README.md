@@ -16,4 +16,5 @@ jaymchung@ssu.ac.kr
 2020/02/28
 
 Duchesnay(2019)Statistics and Machine Learning in Python
-1. python ecosystem for data-science
+0. Install
+
