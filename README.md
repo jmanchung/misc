@@ -15,9 +15,9 @@ jaymchung@ssu.ac.kr
 ### Duchesnay(2019)Ch01.ipynb
 2020/02/28
 
-0. Install
-Duchesnay(2019)Statistics and Machine Learning in Python
-1. PYTHON ECOSYSTEM FOR DATA-SCIENCE
+0. Install   
+Duchesnay(2019)Statistics and Machine Learning in Python   
+1. PYTHON ECOSYSTEM FOR DATA-SCIENCE   
 
 ### Duchesnay(2019)Ch03.ipynb
 2020/03/07
