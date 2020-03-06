@@ -22,7 +22,7 @@ Duchesnay(2019)Statistics and Machine Learning in Python
 ### Duchesnay(2019)Ch03.ipynb
 2020/03/07
 
-Duchesnay(2019)Statistics and Machine Learning in Python
+Duchesnay(2019)Statistics and Machine Learning in Python   
 3. PYTHON LANGUAGE
 - Original: reference.ipynb; https://github.com/justmarkham/python-reference
 
